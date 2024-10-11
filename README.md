@@ -25,10 +25,12 @@ Welcome to my GitHub profile! I’m a passionate Software Engineer specializing 
   ![Agile SCRUM](https://img.shields.io/badge/Agile_SCRUM-6DB33F?style=flat&logo=agile&logoColor=white) 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+- **Game Development:**  
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
 - **Emerging Tech:**  
   ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=ai&logoColor=white) 
   ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain&logoColor=white) 
-  ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Achref's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achref212&show_icons=true&theme=radical)
@@ -41,4 +43,3 @@ I'm currently diving into **Machine Learning** to make applications more intelli
 ## 💼 Let's Connect!
 - ✉️ [chaabaniachrf00@gmail.com](mailto:chaabaniachrf00@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achref-chaabani-2664981b7/)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/achref212)

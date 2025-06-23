@@ -1,20 +1,20 @@
 # 👋 Hello, I'm **Achref Chaabani**! 🚀
 
-Bienvenue sur mon profil GitHub !  
-Je suis un **ingénieur logiciel** passionné, spécialisé en **développement d'applications mobiles, web et intelligentes**. J’aime résoudre des problèmes concrets en combinant les technologies modernes avec l’intelligence artificielle.
+Welcome to my GitHub profile!  
+I'm a passionate **Software Engineer**, specialized in **mobile, web, and AI-powered applications**. I love solving real-world challenges by combining cutting-edge technologies with intelligent systems.
 
 ---
 
-## 🧠 Domaines d'expertise
+## 🧠 Areas of Expertise
 
-- 🤖 **LLM & Agents intelligents** : Intégration et orchestration de modèles comme Mistral, DeepSeek, GPT, LLaMA 3 avec des architectures RAG et agents multi-compétents (LangChain, LangGraph, MCP).
-- 💬 **Chatbots intelligents** : Développement de chatbots adaptatifs pour l’orientation scolaire, avec données personnalisées et index FAISS.
-- 📊 **Machine Learning & NLP** : Fine-tuning, génération de questions, prédiction des taux d’admission Parcoursup.
-- 🔎 **Web Scraping & Structuration de Données** : Collecte et structuration intelligente de plus de **24 000 formations Parcoursup**.
+- 🤖 **LLMs & Intelligent Agents**: Integration and orchestration of models like Mistral, DeepSeek, GPT, LLaMA 3 using RAG architectures and multi-skilled agents (LangChain, LangGraph, MCP).
+- 💬 **Smart Chatbots**: Adaptive Q&A chatbots for educational guidance, with user-personalized answers and FAISS-based retrieval.
+- 📊 **Machine Learning & NLP**: Fine-tuning, question generation, Parcoursup admission rate prediction models.
+- 🔎 **Web Scraping & Data Structuring**: Intelligent scraping and structuring of over **24,000 French higher education programs**.
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -29,7 +29,7 @@ Je suis un **ingénieur logiciel** passionné, spécialisé en **développement 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-### **IA & Données**
+### **AI & Data**
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-00A3E0?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -43,36 +43,36 @@ Je suis un **ingénieur logiciel** passionné, spécialisé en **développement 
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Featured Projects
 
-### 🎓 **PFE 2025 - Chatbot IA Orientation**
-🔹 **Sujet** : Collecte des données des formations Parcoursup + Chatbot IA + Prédiction personnalisée des taux d’admission  
-🔹 **Techniques utilisées** : Web scraping massif (24k formations), FastAPI + FAISS, RAG avec LLM fine-tuné, base vectorielle + relationnelle, UI React.
+### 🎓 **PFE 2025 – AI-Powered Orientation Chatbot**
+🔹 **Topic**: Massive scraping of Parcoursup data + intelligent chatbot + custom admission prediction  
+🔹 **Tech**: Large-scale scraping (24k programs), FastAPI + FAISS, RAG + fine-tuned LLM, vector and relational DBs, React UI.
 
-### 🧠 **TunChat** (Assistant vocal multilingue Derja ↔ Anglais)
-🔹 Modèles NLP fine-tunés sur dialecte tunisien  
-🔹 Intégration de **Whisper**, **Gemini API**, **MarianMT**, TTS + transcription  
-🔹 Pipeline intelligent avec routage LLM, agents vocaux, et correction linguistique.
+### 🧠 **TunChat** – Multilingual Tunisian ↔ English Voice Assistant  
+🔹 Fine-tuned NLP models for the Tunisian dialect  
+🔹 Integrated **Whisper**, **Gemini API**, **MarianMT**, and TTS  
+🔹 Smart pipeline with LLM routing, vocal agents, and language correction
 
 ---
 
-## 📈 Stats GitHub
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achref212&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achref212&layout=compact&theme=radical)
 
 ---
 
-## 🎯 Objectifs actuels
+## 🎯 Current Goals
 
-- 🚧 Approfondir les **agents LLM intelligents** (LangGraph, ReAct, Toolformer)
-- 🔒 Intégrer les **modèles compatibles RGPD** pour les solutions éducatives
-- 🔬 Tester la **fusion de pipelines IA temps réel** (scraping + réponse IA + personnalisation)
-- 🛠️ Créer une **plateforme complète pour l’orientation lycéenne** intelligente
+- 🚧 Deepen my work on **intelligent LLM agents** (LangGraph, ReAct, Toolformer)
+- 🔒 Integrate **GDPR-compliant models** for educational applications
+- 🔬 Build **real-time intelligent pipelines** (data scraping + LLM + personalization)
+- 🛠️ Create a **full guidance platform** for high school students in France
 
 ---
 
-## 🤝 Me contacter
+## 🤝 Let’s Connect
 
-- 📧 Email : [chaabaniachrf00@gmail.com](mailto:chaabaniachrf00@gmail.com)  
-- 🔗 LinkedIn : [chaabani-achref](https://www.linkedin.com/in/chaabani-achref-2664981b7)
+- 📧 Email: [chaabaniachrf00@gmail.com](mailto:chaabaniachrf00@gmail.com)  
+- 🔗 LinkedIn: [chaabani-achref](https://www.linkedin.com/in/chaabani-achref-2664981b7)

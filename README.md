@@ -42,4 +42,4 @@ I'm currently diving into **Machine Learning** to make applications more intelli
 
 ## 💼 Let's Connect!
 - ✉️ [chaabaniachrf00@gmail.com](mailto:chaabaniachrf00@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achref-chaabani-2664981b7/)
+- [![LinkedIn](www.linkedin.com/in/chaabani-achref-2664981b7)

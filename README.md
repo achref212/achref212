@@ -60,7 +60,6 @@ Je suis un **ingénieur logiciel** passionné, spécialisé en **développement 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achref212&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achref212&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=achref212&theme=radical)
 
 ---
 
